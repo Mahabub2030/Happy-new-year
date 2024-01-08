@@ -126,7 +126,9 @@ body{
  }
 .park-section{
     padding: 100px 0px;
-    margin: auto;
+    margin:20px;
+    background-color: rgba(75, 73, 73, 0.1);
+    
 }
 .park-content{
     display: block;
@@ -171,6 +173,7 @@ body{
     justify-content: space-between;
     align-items: center;
     padding: 100px 0px;
+    /* background-color: rgba(255, 0, 0, 0.10); */
 }
 .offer-1 span{
     font-size: 24px;
