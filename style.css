@@ -428,7 +428,7 @@ body{
     padding-left: 15px;
     font-size: 20px;
     color: #070211;
-    border-radius: 15px;
+    border-radius: 30px 0 0 30px;
     border: 0;
 }
 .maiil-content form button{
@@ -438,7 +438,7 @@ body{
     background-color: #FF0000;
     color: #FFFFFF;
     font-size: 20px;
-    border-radius: 15px;
+    border-radius :0 30px 30px 0; 
     border: 0;
 }
 
